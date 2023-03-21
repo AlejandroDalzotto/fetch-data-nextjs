@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import { Josefin_Sans as JosefinSans } from '@next/font/google'
 
 const josefinSans = JosefinSans({ subsets: ['latin'] })

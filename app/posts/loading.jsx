@@ -1,4 +1,4 @@
-export default function loading() {
+export default function Loading() {
     return (
         <section className="flex flex-wrap">
             <div className="w-96 h-96 rounded-2xl bg-zinc-900/80 m-10 py-4 px-6 relative overflow-hidden before:absolute before:inset-0 before:-translate-x-full before:animate-[shimmer_1.5s_infinite] before:bg-gradient-to-r before:from-transparent before:via-white/10 before:to-transparent">
